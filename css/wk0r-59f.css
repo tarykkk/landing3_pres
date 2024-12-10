@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('../fonts/6o2fif5w.woff2') format('woff2'),
+        url('../fonts/v43jrlda.woff') format('woff'),
+        url('../fonts/_96exwkt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('../fonts/wudbt_6w.woff2') format('woff2'),
+        url('../fonts/kkff2ed0.woff') format('woff'),
+        url('../fonts/0quajpwh.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('../fonts/77_vwi7i.woff2') format('woff2'),
+        url('../fonts/vwlz5nem.woff') format('woff'),
+        url('../fonts/-2ouayl5.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AvenirNextCyr';
+    src: url('../fonts/xi8q-0qq.woff2') format('woff2'),
+        url('../fonts/mxj7j6zt.woff') format('woff'),
+        url('../fonts/13mp1fgb.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
+
